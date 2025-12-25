@@ -10,7 +10,7 @@ Whittow only accept creating guides & adversiting repositories in their github p
 # History
 Whittow do their work since august 2025, their idea was think in june 2025 as a saturation editor
 # Who version become first?
-**The base44 version was created first that the google sites version**.
+**The base44 version was created first that the google sites version**
 # Quotations
 > Whittow Quotes
 Inspirational / Motivational
